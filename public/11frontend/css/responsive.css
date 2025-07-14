@@ -1,0 +1,2072 @@
+@media (min-width: 1400px) and (max-width: 1600px) {
+  #header .nav-link {
+    font-size: 17px;
+  }
+
+  #header .navbar-brand img {
+    height: 45px;
+  }
+
+  #header .navbar-expand-lg .navbar-nav .nav-item {
+    margin-right: 25px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1440px) {
+  .sectionTitle {
+    font-size: 36px;
+}
+
+.consul-business-elements {
+    gap: 35px;
+}
+
+.career-businessBox {
+    width: 140px;
+    height: 140px;
+    flex: 0 0 140px;
+}
+
+.career-title {
+    font-size: 32px;
+}
+  .numerol_head {
+    font-size: 40px;
+  }
+
+  .numerol_desc p {
+    font-size: 17px;
+  }
+
+  .numerol.imgBox img {
+    height: 500px;
+  }
+
+  #header .nav-link {
+    font-size: 16px;
+  }
+
+  #header .navbar-brand img {
+    height: 40px;
+  }
+
+  #header .navbar-expand-lg .navbar-nav .nav-item {
+    margin-right: 15px;
+  }
+
+  .header_signUp,
+  .header_login {
+    width: 95px;
+    font-size: 16px;
+    padding: 9px !important;
+  }
+
+  .heroBanner-section {
+    padding-top: 100px;
+  }
+
+  .hero-right-content {
+    padding: 60px 0 0 0;
+  }
+
+  img.banner_horoscope {
+    max-width: 496px;
+    max-height: 496px;
+  }
+
+  .welcome-text {
+    font-size: 35px;
+  }
+
+  .hero-heading {
+    font-size: 62px;
+  }
+
+  .login-titleBox h1 {
+    font-size: 34px;
+  }
+
+  .login-flex-box {
+    padding: 0 40px;
+  }
+
+  .appointment-wrapper {
+    padding: 80px 0;
+  }
+
+  .appointment-block-element {
+    padding: 42px 40px;
+  }
+
+  .daily_horoscopeSection::after {
+    width: 600px;
+  }
+
+  .daily_horoscopeSection {
+    padding: 66px 0 100px;
+  }
+
+  .horos_cardBox {
+    padding: 38px 10px 19px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1309px) {}
+
+@media (min-width: 1200px) {
+
+
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl {
+    max-width: 1240px;
+  }
+}
+
+@media (max-width: 1199.98px) {
+  .category .category-card .card-content {
+    padding: 13px 15px;
+}
+.product-cardBtn {
+  font-size: 14px;
+  padding: 14px 8px;
+}
+.product-price {
+  font-size: 20px;
+}
+.product-cardFooter {
+  gap: 6px;
+}
+
+.category .category-card .card-content h4 {
+    font-size: 19px;
+}
+
+.card-content .mb-14 {
+    margin-bottom: 4px !important;
+}
+
+.rowGab {
+    row-gap: 22px;
+}
+
+.career-businessBox {
+    width: 120px;
+    flex: 0 0 120px;
+    height: 120px;
+    padding: 10px;
+}
+
+.consul-business-elements {
+    gap: 25px;
+}
+
+.career-title {
+    font-size: 28px;
+    margin-bottom: 4px;
+}
+
+.career-businessInfo {
+    padding-top: 18px;
+}
+
+.lorem-textBox .section-subText {
+    margin-bottom: 16px;
+    font-size: 16px;
+}
+
+.career-price {
+    font-size: 28px;
+}
+  .border-btn {
+    font-size: 16px;
+    padding: 11px 25px;
+  }
+
+  .group-btn .category-card-btn.book-btn {
+    flex: 48%;
+  }
+
+  .border-btn {
+    flex: 48%;
+  }
+
+  .benefit-numerology {
+    padding-top: 65px;
+  }
+
+  .numerol_head {
+    font-size: 38px;
+  }
+
+  .numerol_desc p {
+    font-size: 16px;
+  }
+
+  .faq-page .accordion-button {
+    padding: 20px 50px 20px 22px;
+    font-size: 18px;
+  }
+
+  .accordion-button::after {
+    top: 22px;
+  }
+
+  .faq_subText p {
+    font-size: 15px;
+  }
+
+  .faq-page .accordion-body {
+    padding: 0 22px 20px;
+  }
+
+  .section-wrapper {
+    margin-bottom: 35px;
+  }
+
+  .border-buttonBox.mt-85 {
+    margin-top: 55px;
+  }
+
+  .section-subTitle {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+
+  .numerol_listBox li {
+    padding-bottom: 0;
+  }
+
+  .sectionTitle {
+    font-size: 32px;
+  }
+
+  .main_contentBox {
+    margin-bottom: 50px;
+  }
+
+  .numerol_listBox li p {
+    font-size: 16px;
+  }
+
+  .popup-content .modal-title {
+    font-size: 28px;
+  }
+
+  .popup-content .modal-header {
+    margin: 0px 25px;
+    padding: 20px 0;
+  }
+
+  .popup-content .modal-body {
+    padding: 0px 25px 25px;
+  }
+
+  .booking_summeryListing {
+    margin: 19px 0 50px;
+    gap: 24px 65px;
+  }
+
+  .price {
+    font-size: 32px;
+  }
+
+  .pooja-subTitle {
+    font-size: 30px;
+  }
+
+  .category-card-btn.book-btn {
+    font-size: 16px;
+    padding: 16px 25px;
+  }
+
+  .otp-verificationWrap .login-title {
+    margin: 0 auto 40px;
+  }
+
+  .otp_verification {
+    margin-bottom: 40px;
+  }
+
+  .otp_verification input {
+    font-size: 30px;
+    width: 70px;
+    height: 74px;
+  }
+
+  .login-logo {
+    margin: 0 auto 30px;
+  }
+
+  .continue-with {
+    margin-top: 30px;
+  }
+
+  .meet-astro-righBox img {
+    height: 395px;
+  }
+
+  .productBanner {
+    min-width: 120px;
+    width: 120px;
+    height: 120px;
+  }
+
+  .about-head {
+    font-size: 30px;
+  }
+
+  #header .nav-link {
+    font-size: 16px;
+  }
+
+  #header .navbar-brand img {
+    height: 40px;
+  }
+
+  #header .navbar-expand-lg .navbar-nav .nav-item {
+    margin-right: 15px;
+  }
+
+  .header_signUp,
+  .header_login {
+    width: 95px;
+    font-size: 16px;
+    padding: 9px !important;
+  }
+
+  .appointment-wrapper {
+    padding: 65px 0;
+  }
+
+  .appointment-block-element {
+    padding: 40px;
+  }
+
+  .section-title {
+    font-size: 17px;
+    margin-bottom: 8px;
+  }
+
+  .section-heading {
+    font-size: 35px;
+  }
+
+  .appoint_inputBox .form-group {
+    margin-bottom: 28px;
+  }
+
+  .form-control.input-text {
+    height: 95px !important;
+  }
+
+  .appoint_inputBox .form-label {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+
+  .submit-btn {
+    font-size: 16px;
+    padding: 13px 36px 14px;
+  }
+
+  .appoint-formContent {
+    margin-top: 40px;
+  }
+
+  .daily_horoscopeSection::after {
+    width: 500px;
+  }
+
+  .daily_horoscopeSection {
+    padding: 66px 0 80px;
+  }
+
+  .horos_cardBox {
+    padding: 35px 10px 19px;
+    font-size: 18px;
+  }
+
+  .horos_cardImg {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 15px;
+  }
+
+  .daily_horos_cardBlock {
+    margin-top: 50px;
+  }
+}
+
+@media (min-width: 992px) {
+  .mobile_logo {
+    display: none;
+  }
+
+  .dropdown-menu {
+    right: 0;
+    left: auto;
+  }
+
+  /* 
+  .dropdown:hover ul.dropdown-menu,
+  .dropdown:hover ul.dropdown-menu.show {
+    top: calc(100% + 5px);
+    opacity: 1;
+    visibility: visible;
+    transform: rotateX(0) translateZ(0);
+  } */
+}
+
+@media (min-width: 768px) {}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+  .dashboard-nav-item {
+    padding: 16px 16px 16px 29px;
+    font-size: 17px;
+}
+.profile-sideBar {
+  padding: 17px;
+}
+.dash-nav-li.active .dashboard-nav-item::after {
+  left: -41px;
+  width: 56px;
+  height: 56px;
+}
+  .numerol.imgBox img {
+    height: 470px;
+  }
+
+  .booking_summeryListing li {
+    width: calc(33.33333% - 65px);
+  }
+
+  .pooja-cardBox {
+    max-height: 428px;
+  }
+
+  .otp-verificationWrap .login-flex-box {
+    padding: 0 20px;
+  }
+
+  #header {
+    padding: 20px 0px 10px 0px;
+  }
+
+  .heroBanner-section {
+    padding-top: 90px;
+  }
+
+  .hero-right-content {
+    padding: 60px 0 0 0;
+  }
+
+  img.banner_horoscope {
+    max-width: 496px;
+    max-height: 496px;
+  }
+
+  .welcome-text {
+    font-size: 32px;
+  }
+
+  .banner_btn {
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 6px;
+    padding: 12px 23px;
+  }
+
+  .banner_consultArrow {
+    width: 25px;
+    height: 25px;
+  }
+
+  span.banner_consultArrow svg {
+    width: 12px;
+    height: 12px;
+  }
+
+  .hero-heading {
+    font-size: 58px;
+  }
+
+  .header_signUp,
+  .header_login {
+    width: 82px;
+    font-size: 14px;
+    padding: 9px !important;
+  }
+
+  #header .nav-link {
+    font-size: 14px;
+  }
+
+  #header .navbar-expand-lg .navbar-nav .nav-item {
+    margin-right: 12px !important;
+  }
+
+
+  .login-titleBox {
+    margin-bottom: 30px;
+  }
+
+  .login-titleBox h1 {
+    font-size: 28px;
+  }
+
+  .login-flex-box {
+    padding: 0 40px;
+  }
+
+  .footer-block figure {
+    margin: 0 0 18px;
+    max-width: 277px;
+  }
+
+  .subscribe_text {
+    font-size: 15px;
+  }
+
+  .footer-links {
+    font-size: 16px;
+  }
+
+  footer h6 {
+    font-size: 22px;
+    margin: 0px 0 22px;
+  }
+
+  .footer-box {
+    gap: 22px;
+  }
+
+  .social_link {
+    width: 50px;
+    height: 50px;
+  }
+
+  .copyright {
+    padding: 28px 0;
+    margin-top: 45px;
+  }
+
+  #header .navbar-expand-lg .navbar-nav .nav-item {
+    margin-right: 15px;
+  }
+
+  #header .extra_nav {
+    margin-left: 15px;
+  }
+
+  #header .navbar-brand img {
+    height: 28px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1199.98px) {}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .heroBanner-section {
+    padding-top: 100px;
+  }
+
+  .hero-heading {
+    font-size: 48px;
+  }
+
+  .banner_consultArrow {
+    width: 25px;
+    height: 25px;
+  }
+
+  img.banner_horoscope {
+    max-width: 436px;
+    max-height: 436px;
+  }
+
+  span.banner_consultArrow svg {
+    width: 12px;
+    height: 12px;
+  }
+
+  .welcome-text {
+    font-size: 33px;
+  }
+
+  .banner_btn {
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 6px;
+    padding: 12px 23px;
+  }
+
+
+  .login-titleBox {
+    margin-bottom: 30px;
+  }
+
+  .login-titleBox h1 {
+    font-size: 28px;
+  }
+
+  .login-flex-box {
+    padding: 0 20px;
+  }
+
+  .navbar-toggler.menuClose-icon {
+    display: none;
+  }
+
+  .navbar-toggler.menu-opened:before {
+    top: 10px;
+    background: #fff;
+    width: 22px;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+  }
+
+  .navbar-toggler.menu-opened span {
+    opacity: 0;
+  }
+
+  .navbar-toggler.menu-opened:after {
+    -webkit-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    top: 10px;
+    border: 0;
+    height: 2px;
+    width: 22px;
+    background: #fff;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+
+}
+
+
+@media (max-width: 991.98px) {
+  .avatar-upload .avatar-preview {
+    width: 95px;
+    height: 95px;
+}
+
+.myProfile_upload {
+  margin-bottom: 35px;
+}
+  .profile-sideBar{
+    display: none;
+  }
+  .numerol.imgBox img {
+    height: 490px;
+  }
+
+  .popup-content .modal-dialog {
+    max-width: 700px;
+  }
+
+  .booking_summeryListing li {
+    width: calc(50% - 24px);
+  }
+
+  .booking_summeryListing {
+    gap: 20px 24px;
+  }
+
+  .summery-head {
+    font-size: 22px;
+  }
+
+  .booking-summeryInfo {
+    max-width: 100%;
+    padding-top: 6px;
+  }
+
+  .booking_summeryBox {
+    gap: 18px;
+  }
+
+  .booking_summeryDetails {
+    margin-top: 26px;
+  }
+
+  .contact_nameMail {
+    font-size: 18px;
+  }
+
+  .serch-box {
+    max-width: 220px;
+    flex: 0 0 220px;
+  }
+
+  .pooja-cardBox {
+    max-height: 300px;
+  }
+
+  .pooja-list-details {
+    flex: 0 0 390px;
+  }
+
+  .sectionTitle {
+    font-size: 35px;
+  }
+
+  .pooja-detailsBox {
+    padding: 20px;
+  }
+
+  .desc_text p {
+    font-size: 15px;
+    margin-bottom: 12px;
+  }
+
+  .pooja-detailsItems li {
+    padding-left: 15px;
+    margin-bottom: 12px;
+  }
+
+  .pooja-detailsItems li::before {
+    width: 6px;
+    height: 6px;
+  }
+
+  .price {
+    font-size: 28px;
+  }
+
+  .pooja_descriptionBox {
+    padding-top: 25px;
+    margin-top: 25px;
+  }
+
+  .description-title.mb-28 {
+    margin-bottom: 18px;
+  }
+
+  .section-subText {
+    font-size: 15px;
+  }
+
+  .login-title {
+    margin-bottom: 35px;
+  }
+
+  .form-group {
+    margin-bottom: 22px;
+  }
+
+  .breadcrumb-item+.breadcrumb-item::before {
+    padding-right: 8px;
+  }
+
+  .section-text p {
+    font-size: 15px;
+    margin-bottom: 16px;
+  }
+
+  .meet-our-astrologerWrapp {
+    padding: 55px 0;
+    margin: 40px 0 55px;
+  }
+
+  .section-wrapper {
+    margin-bottom: 35px;
+  }
+
+  #header .navbar-nav.ms-auto {
+    align-items: start;
+  }
+
+  .vision_header #header .navbar-expand-lg .navbar-nav .nav-link:hover,
+  .vision_header #header .navbar-expand-lg .navbar-nav .nav-item.active .nav-link {
+    color: var(--primary-color);
+  }
+
+  .vision_header #header .nav-link {
+    color: var(--black-color);
+  }
+
+  .footer-block {
+    padding-inline: 0;
+  }
+
+  .footer-block figure {
+    margin: 0 0 18px;
+    max-width: 245px;
+  }
+
+  .subscribe_text {
+    font-size: 15px;
+  }
+
+  .footer-links {
+    font-size: 15px;
+  }
+
+  .social_link {
+    width: 46px;
+    height: 46px;
+    margin-right: 10px;
+  }
+
+  a.social_link span svg {
+    width: 18px;
+    height: 18px;
+  }
+
+  .footer-contactText {
+    font-size: 15px;
+    margin-bottom: 3px;
+  }
+
+  footer h6 {
+    font-size: 18px;
+    margin: 0px 0 15px;
+  }
+
+  .footer_copyLinks {
+    gap: 20px;
+  }
+
+  .footer-box {
+    gap: 18px;
+  }
+
+  .social_link {
+    width: 50px;
+    height: 50px;
+  }
+
+  .copyright {
+    padding: 28px 0;
+    margin-top: 45px;
+  }
+
+  #header .header_filled_btn,
+  #header .header_border_btn {
+    padding: 8px 15px !important;
+  }
+
+  .menuoverlay {
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    top: 0;
+    left: 0;
+    z-index: 9;
+  }
+
+  #header .navbar-brand img {
+    max-height: 32px;
+    width: auto;
+  }
+
+  #header .navbar-nav .dropdown-menu {
+    border: none;
+    /* background: transparent; */
+    position: absolute;
+  }
+
+  .navbar-toggler:focus,
+  .navbar-toggler:active {
+    outline: none;
+    box-shadow: none;
+  }
+
+  .navbar-toggler {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    right: 0px;
+    padding: 0;
+    border: 0;
+    z-index: 9;
+  }
+
+  .vision_header .navbar-toggler:before,
+  .vision_header .navbar-toggler span {
+    background: var(--white-color);
+  }
+
+  .vision_header .navbar-toggler:after {
+    border-top: 2px solid var(--white-color);
+  }
+
+  .vision_header #header.is-sticky .navbar-toggler:before,
+  .vision_header #header.is-sticky .navbar-toggler span {
+    background: var(--primary-color);
+  }
+
+  .vision_header #header.is-sticky .navbar-toggler:after {
+    border-top: 2px solid var(--primary-color);
+  }
+
+  .navbar-toggler:before {
+    -webkit-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: block;
+    height: 2px;
+    width: 22px;
+    background: var(--primary-color);
+    content: "";
+  }
+
+  .navbar-toggler span {
+    -webkit-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    position: absolute;
+    bottom: 14px;
+    right: 0;
+    display: block;
+    height: 2px;
+    width: 22px;
+    background: var(--primary-color);
+  }
+
+  .navbar-toggler:after {
+    position: absolute;
+    top: 16px;
+    right: 0;
+    display: block;
+    height: 4px;
+    width: 22px;
+    border-top: 2px solid var(--primary-color);
+    content: "";
+  }
+
+  .hero-right-content {
+    padding: 30px 0 0 30px;
+  }
+
+  /* Main Menu */
+  header .collapse:not(.show) {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: -300px;
+    height: 100vh;
+    overflow-y: auto;
+    width: 250px;
+    background: #fff;
+    padding: 0 12px;
+    padding-top: 110px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+    transition: all 0.5s;
+    z-index: 99;
+  }
+
+  header .collapse:not(.show).menu-show {
+    left: 0px;
+  }
+
+  body.scroll-off {
+    overflow-y: hidden;
+  }
+
+  #header {
+    height: auto;
+    padding: 15px 0px 15px 0px;
+  }
+
+  #header .navbar-expand-lg .navbar-nav .nav-link.sign_up,
+  #header .navbar-expand-lg .navbar-nav .nav-link.sign_in {
+    margin: 0 0;
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .mobile_logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0 0 0 10px;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.05);
+    background-color: #fff;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    right: 0;
+  }
+
+  .is-sticky .mobile_logo {
+    padding: 15px 10px;
+  }
+
+  .is-sticky .collapse:not(.show) {
+    padding-top: 75px;
+  }
+
+  .mobile_logo img {
+    max-height: 30px;
+    width: auto;
+  }
+
+  #header .navbar-expand-lg .navbar-nav .nav-link.sign_up {
+    margin-top: 20px;
+  }
+
+  .overlay {
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    top: 0;
+    left: 0;
+    z-index: 1;
+  }
+
+  .user_dropdown .dropdown-toggle::after {
+    display: none;
+  }
+
+  .user_dropdown>a {
+    margin-right: 40px;
+  }
+
+  #header .extra_nav {
+    margin-left: 0;
+    border-top: 1px solid #ddd;
+    /*margin-top: 15px;*/
+    padding-top: 15px;
+  }
+
+  #header .extra_nav.for_mobile {
+    padding: 0;
+    margin-top: 0;
+    border: 0;
+  }
+
+  #header .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 5px 0;
+  }
+
+  #header .navbar-expand-lg .navbar-nav .nav-link.extra_btn {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  #header .navbar-expand-lg .navbar-nav .nav-link.lang_drop {
+    width: 60px;
+    padding-left: 30px;
+    margin-bottom: 0;
+  }
+
+  #header .navbar-expand-lg .navbar-nav .nav-item {
+    margin-right: 0px !important;
+    margin-bottom: 10px;
+  }
+
+  #header .extra_nav.for_mobile .nav-item {
+    margin-bottom: 0;
+  }
+
+  #header .navbar-nav .dropdown-menu {
+    border: none;
+    padding: 0;
+  }
+
+  #header .for_mobile {
+    display: block;
+  }
+
+  #header .for_desktop {
+    display: none;
+  }
+
+  .extra_nav.for_mobile {
+    margin-left: 0 !important;
+  }
+
+  .user_dropdown>a {
+    padding-left: 0;
+  }
+
+  #header .navbar-expand-lg .navbar-nav .nav-link:before {
+    display: none;
+  }
+
+  .footer-signin-link a span,
+  .footer-signup-link a span {
+    font-size: 30px;
+  }
+
+  .footer-signin-link a p,
+  .footer-signup-link a p {
+    font-size: 13px;
+  }
+
+  .footer-signup-link a span.footer-link-arrow,
+  .footer-signin-link a span.footer-link-arrow {
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    right: 10px;
+  }
+
+  .footer-signup-link a {
+    padding-left: 50px;
+  }
+
+  .footer-signin-link a,
+  .footer-signup-link a {
+    padding-right: 70px;
+  }
+
+  .footer-block figure {
+    margin-bottom: 10px;
+  }
+
+  .footer-block {
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .popup-content.Logout-popup .modal-dialog {
+    max-width: 500px;
+}
+.popup-content.Logout-popup  .modal-body {
+  padding: 0 30px 35px;
+}
+.Logout-imgBox {
+  margin: 0 auto 14px;
+}
+  .my-booking .booking-list {
+    position: relative;
+  
+    padding-left: 120px;
+    flex-wrap: wrap;
+}
+.booking-list .list-image,  .business-list .list-card-image-box {
+    position: absolute;
+    left: 16px;
+    top: 16px;
+}
+.my-booking .booking-list .list-time-btn {
+    flex: auto;
+    text-align: left;
+}
+  .border-buttonBox.mt-50 {
+    margin-top: 25px;
+}
+.category .category-card .card-content {
+  padding: 13px 12px;
+}
+.category.product-section {
+  padding: 0 0 50px;
+}
+  .serch-inputBlock {
+    max-width: 315px;
+    flex: 0 0 315px;
+}
+
+.pooja-detailsBox.pt-14 {
+    padding: 15px 12px;
+}
+
+.whatsapp-link {
+    font-size: 16px;
+    padding: 14px;
+}
+
+.career-businessBox {
+    width: 75px;
+    flex: 0 0 75px;
+    height: 75px;
+}
+
+.consul-business-elements {
+    gap: 15px;
+}
+
+.career-businessInfo {
+    padding-top: 12px;
+}
+
+.consultation-detailsBox {
+    margin-bottom: 25px;
+}
+
+.career-title {
+    font-size: 24px;
+    margin-bottom: 2px;
+}
+  .numerol_head {
+    font-size: 32px;
+    margin-bottom: 18px;
+  }
+
+  .faq-page .accordion-button {
+    padding: 18px 35px 18px 15px;
+    font-size: 16px;
+  }
+
+  .faq-page .accordion-body {
+    padding: 0 15px 18px;
+  }
+
+  .faq_subText p {
+    font-size: 14px;
+  }
+
+  .accordion-button::after {
+    top: 20px;
+    right: 12px;
+    background-size: 13px;
+  }
+
+  .section-wrapper {
+    margin-bottom: 25px;
+  }
+
+  .breadcrumb {
+    row-gap: 10px;
+  }
+
+  .form-checkBox .form-check-label {
+    font-size: 18px;
+  }
+
+  .popup-content .modal-dialog {
+    max-width: 500px;
+  }
+
+  .section-subTitle {
+    font-size: 28px;
+  }
+
+  .border-buttonBox.mt-85 {
+    margin-top: 18px;
+  }
+
+  .popup-content.booking-confirmPopup .modal-dialog {
+    max-width: 500px;
+  }
+
+  .summery-label {
+    font-size: 14px;
+    margin-bottom: 3px;
+  }
+
+  .summery-info {
+    font-size: 15px;
+  }
+
+  .booking-subTitle {
+    font-size: 28px;
+  }
+
+  .confirm-img {
+    margin: 0 auto 20px;
+  }
+
+  .white-shadowDiv {
+    padding: 20px;
+  }
+
+  .pooja-cardBox {
+    max-height: 550px;
+  }
+
+  .category .category-card .card-content h4 {
+    font-size: 20px;
+  }
+
+  .pooja-list-box {
+    align-items: start;
+    flex-direction: column;
+    row-gap: 22px;
+  }
+
+  .pooja-list-details {
+    flex: auto;
+    width: 100%;
+  }
+
+  .pooja-detailsWrapp {
+    padding-bottom: 55px;
+  }
+
+  .btn-secondary {
+    min-width: fit-content;
+  }
+
+  .pooja-subTitle {
+    font-size: 25px;
+  }
+
+  .description-title {
+    font-size: 20px;
+  }
+
+  .serch-box {
+    max-width: 100%;
+    flex: 1 1 100%;
+  }
+
+  .load-more {
+    font-size: 15px;
+    padding: 12px 22px;
+  }
+
+  .cms-heading {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  label {
+    margin: 0 0 5px;
+    font-size: 15px;
+  }
+
+  .form-group {
+    margin-bottom: 18px;
+  }
+
+  .show-pass {
+    top: 44px;
+  }
+
+  .user_block a {
+    width: 36px;
+    height: 36px;
+    min-width: 36px;
+    min-height: 36px;
+  }
+
+  .user_dropdown img {
+    height: 36px;
+    width: 36px;
+    min-height: 36px;
+    min-width: 36px;
+  }
+
+  .user_block a svg {
+    width: 17px;
+    height: 17px;
+  }
+
+  .after_loginBox {
+    gap: 10px;
+    padding-left: 5px;
+  }
+
+  .section-wrapper {
+    padding: 12px 0;
+  }
+
+  .meet-our-astrologerWrapp {
+    padding: 50px 0;
+    margin: 20px 0 45px;
+  }
+
+  section.consultation-section {
+    padding-bottom: 57px;
+  }
+
+  .testimonial-content {
+    padding: 24px;
+  }
+
+  .service-card-btn {
+    padding: 15px 20px;
+    font-size: 15px;
+  }
+
+  .service .service-card .card-content p {
+    margin-bottom: 20px;
+    line-height: 20px;
+  }
+
+  .service .service-card .card-content {
+    margin-top: 18px;
+  }
+
+  .sectionTitle {
+    font-size: 30px;
+  }
+
+  .sectionSubTitle {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+
+  .category {
+    padding: 55px 0px;
+  }
+
+  .testimonial-section {
+    padding: 55px 0px;
+  }
+
+  .product-section {
+    padding: 55px 0px;
+  }
+
+  .service {
+    padding: 0 0 55px;
+  }
+
+  .about-card-content .about-heading h2 {
+    font-size: 30px;
+  }
+
+  .about-card-content .about-content p {
+    line-height: 1.7;
+  }
+
+  .about-us .about-card-content .about-content {
+    border-radius: 20px;
+    padding: 30px 18px;
+  }
+
+  .meet-astrologerContent {
+    padding-left: 18px;
+  }
+
+  .consultation-cardBox img {
+    height: auto;
+  }
+
+  .meet-astro-righBox img {
+    height: auto;
+  }
+
+  img.banner_horoscope {
+    bottom: 145px;
+    top: unset;
+  }
+
+  .hero-left-img {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .vision_header #header {
+    padding: 20px 0px 10px 0px;
+  }
+
+  .hero-left-img img {
+    max-height: 478px;
+  }
+
+  .hero-heading {
+    font-size: 63px;
+  }
+
+  .welcome-text {
+    font-size: 31px;
+  }
+
+  .heroBanner-section {
+    padding-top: 100px;
+  }
+
+  .appointment-wrapper {
+    padding: 50px 0;
+  }
+
+  .appointment-block-element {
+    padding: 35px 25px;
+  }
+
+  .appoint_inputBox .form-group {
+    margin-bottom: 22px;
+  }
+
+  .appoint_inputBox .form-group.margin-28 {
+    margin-bottom: 22px;
+  }
+
+  .appoint_inputBox .form-control {
+    min-height: 48px;
+    font-size: 15px;
+  }
+
+  .appoint_inputBox .form-label {
+    font-size: 14px;
+  }
+
+  .section-title {
+    font-size: 15px;
+    letter-spacing: 1px;
+  }
+
+  .section-heading {
+    font-size: 32px;
+  }
+
+  .appoint-formContent {
+    margin-top: 35px;
+  }
+
+  .daily_horoscopeSection::after {
+    width: 100%;
+    background-size: contain;
+  }
+
+  .horos_cardBox {
+    padding: 20px 10px 18px;
+  }
+
+  .daily_horoscopeSection {
+    padding: 50px 0 55px;
+  }
+
+  .login-logo {
+    margin: 0 auto 18px;
+  }
+
+  .login-titleBox {
+    margin-bottom: 35px;
+  }
+
+  .login-titleBox h1 {
+    font-size: 28px;
+    margin-bottom: 6px;
+  }
+
+  .login_sign_up_block {
+    position: relative;
+  }
+
+  .login-flex-box {
+    padding: 40px 30px;
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.9);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+  }
+
+  .footer_copyLinks {
+    flex-wrap: wrap;
+    gap: 8px;
+    padding-top: 4px;
+    justify-content: center;
+  }
+
+  .copyright {
+    font-size: 13px;
+    text-align: center;
+  }
+
+  .footer-block {
+    border-inline: 0;
+    padding-inline: 0;
+    padding-bottom: 30px;
+  }
+
+  .footer_inner.text-end {
+    padding-right: 34px;
+    height: 100%;
+    border-right: 1px solid #9DC2C3;
+  }
+
+  .footer_inner.text-start {
+    padding-left: 10px;
+  }
+
+  .navbar-toggler.menuClose-icon {
+    position: absolute;
+    top: 13px;
+    right: 15px;
+  }
+
+  .navbar-toggler.menuClose-icon::before,
+  .navbar-toggler.menuClose-icon::after {
+    display: none;
+  }
+
+  header .collapse:not(.show) {
+    width: 100%;
+  }
+
+  header .collapse:not(.show) {
+    left: -100%;
+    box-shadow: unset;
+  }
+
+  p {
+    font-size: 15px;
+  }
+
+  #header,
+  .mobile_logo,
+  #header.is-sticky {
+    height: 60px;
+  }
+
+  header .collapse:not(.show) {
+    padding-top: 70px;
+  }
+
+
+  footer h6 {
+    margin: 0 0 10px;
+  }
+
+  .features-coin {
+    height: 55px;
+    width: 55px;
+    line-height: 55px;
+  }
+
+  .features-coin img {
+    height: 30px;
+  }
+
+  .features-heading {
+    font-size: 17px;
+  }
+
+  .features-text {
+    font-size: 13px;
+  }
+
+  .footer-signin-link a span,
+  .footer-signup-link a span {
+    font-size: 20px;
+  }
+
+  .footer-signin-link a p,
+  .footer-signup-link a p {
+    font-size: 11px;
+  }
+
+  .footer-signin-link a,
+  .footer-signup-link a {
+    padding-right: 40px;
+  }
+
+  .footer-signup-link a span.footer-link-arrow,
+  .footer-signin-link a span.footer-link-arrow {
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    right: 10px;
+    font-size: 14px;
+  }
+
+  .footer-signin-link a,
+  .footer-signup-link a {
+    padding-right: 40px;
+    padding-left: 15px;
+  }
+
+  .price-value-right,
+  .coinname-detail-box,
+  .coin-trade-action {
+    padding: 10px 20px;
+  }
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .product-cardFooter {
+    gap: 10px;
+    flex-direction: column;
+}
+}
+
+@media (max-width: 575.98px) {
+  .xdsoft_datetimepicker {
+    width: 320px; 
+}
+.xdsoft_datetimepicker .xdsoft_datepicker {
+    width: 95%;
+}
+.xdsoft_datetimepicker .xdsoft_timepicker {
+    width: 95%;
+}
+.xdsoft_time_variant {
+  display: grid;
+  gap: 6px;
+  grid-template-columns: 1fr 1fr;
+}
+
+  .popup-content.Logout-popup  .modal-body {
+    padding: 0 18px 28px;
+}
+.booking-subTitle {
+  font-size: 24px;
+}
+  .pooja-subTitle {
+    font-size: 22px;
+  }
+  .avatar-upload .avatar-preview {
+    width: 92px;
+    height: 92px;
+}
+.profile-title {
+  font-size: 18px;
+}
+  .category .category-card img {
+    max-height: 385px;
+    min-height: 385px;
+}
+  .courses-box {
+    flex-direction: column;
+    align-items: flex-start;
+    row-gap: 12px;
+    margin-bottom: 28px;
+}
+
+.consultation-detailsBox {
+    flex-direction: column;
+    align-items: start;
+    row-gap: 15px;
+}
+
+.career-businessInfo {
+    padding-top: 8px;
+}
+
+.career-title {
+    font-size: 20px;
+}
+
+.career-price {
+    font-size: 25px;
+}
+
+.serch-inputBlock {
+    max-width: 100%;
+    flex: auto;
+    width: 100%;
+}
+
+.form-control {
+    padding: 10px 15px;
+    min-height: 48px;
+}
+
+.consultation-detailsBox .category-card-btn.book-btn {
+    width: 100%;
+    text-align: center;
+}
+  .border-btn {
+    font-size: 15px;
+  }
+
+  .myCart_product {
+    flex-direction: column;
+  }
+
+  .numerol.imgBox img {
+    height: 440px;
+  }
+
+  .closeCartBtn {
+    position: absolute;
+    top: 10px;
+    right: 0;
+  }
+
+  .myCartMainTilte {
+    font-size: 15px;
+    padding-right: 10px;
+  }
+
+  .myCart_price {
+    font-size: 18px;
+  }
+
+  .myCart_counter {
+    flex: auto;
+  }
+
+  .myCartImg img {
+    width: 70px;
+    height: 68px;
+  }
+
+  .myCartImg {
+    flex: 0 0 70px;
+  }
+
+  .popup-content .modal-title {
+    font-size: 22px;
+  }
+
+  .popup-content .modal-header {
+    margin: 0px 15px;
+    padding: 18px 0;
+  }
+
+  .popup-content .modal-body {
+    padding: 0px 15px 18px;
+  }
+
+  .booking_summeryListing {
+    margin: 19px 0 35px;
+  }
+
+  .account-number {
+    font-size: 14px;
+  }
+
+  .booking_summeryDetails {
+    margin-top: 20px;
+  }
+
+  .booking_summeryBox {
+    flex-direction: column;
+  }
+
+  .book-imgBox {
+    max-width: 100%;
+    flex: auto;
+  }
+
+  .book-imgBox img {
+    height: auto;
+  }
+
+  .booking_summeryDetails .submit-btn {
+    width: auto;
+  }
+
+
+  .contact_nameMail {
+    font-size: 16px;
+  }
+
+  .contact_infoIcon {
+    width: 45px;
+    height: 45px;
+    padding: 11px;
+  }
+
+  .contact_mailBox {
+    gap: 12px;
+  }
+
+  .contact_nameBox {
+    padding-left: 12px;
+  }
+
+  .white-shadowDiv {
+    padding: 15px;
+  }
+
+  .pooja-list-details {
+    flex-direction: column;
+    row-gap: 22px;
+  }
+
+  .category.pooja-listSection {
+    padding: 0 0 55px;
+  }
+
+  .category-card-btn.book-btn {
+    font-size: 15px;
+  }
+
+  .price {
+    font-size: 22px;
+  }
+
+  .login-logo img {
+    height: 36px;
+  }
+
+  .login-flex-box {
+    padding: 30px 15px;
+  }
+
+
+  .login-titleBox {
+    margin-bottom: 30px;
+  }
+
+  .login-titleBox h1 {
+    font-size: 24px;
+  }
+
+  .otp_verification input {
+    font-size: 26px;
+    width: 66px;
+    height: 70px;
+  }
+
+  .sectionTitle {
+    font-size: 25px;
+  }
+
+  .meet-astrologerContent {
+    border-left: 0;
+    padding-left: 0;
+  }
+
+  .banner_btn {
+    font-size: 17px;
+    padding: 11px 21px;
+  }
+
+  span.banner_consultArrow svg {
+    width: 12px;
+    height: 12px;
+  }
+
+  .banner_consultArrow {
+    width: 25px;
+    height: 25px;
+  }
+
+  .hero-heading {
+    font-size: 40px;
+    line-height: normal;
+  }
+
+  .hero-right-content {
+    padding: 0;
+  }
+
+  .submit-btn {
+    padding: 14px 36px 15px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .daily_horos_cardBlock {
+    margin-top: 35px;
+  }
+
+  .form-control.input-text {
+    height: 75px !important;
+  }
+
+  .appointment-wrapper {
+    padding: 40px 0;
+  }
+
+  .submit-btn {
+    padding: 14px 36px 15px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .daily_horos_cardBlock {
+    margin-top: 35px;
+  }
+
+  .form-control.input-text {
+    height: 75px !important;
+  }
+
+  .appointment-wrapper {
+    padding: 40px 0;
+  }
+
+  .footer_inner.text-end {
+    padding-right: 24px;
+  }
+
+
+  .footer_inner.text-start {
+    padding-left: 0px;
+  }
+
+  #header .navbar-brand img {
+    max-height: 27px;
+  }
+
+  #header .navbar-expand-lg .navbar-nav .nav-link.lang_drop img {
+    width: 19px;
+  }
+
+  .section {
+    margin-top: 25px;
+  }
+
+  .features-coin {
+    height: 45px;
+    width: 45px;
+    line-height: 45px;
+  }
+
+  .features-coin img {
+    height: 22px;
+  }
+
+  .footer_wrapper {
+    padding: 20px 0 0;
+  }
+
+  .footer-block figure img {
+    height: 35px;
+  }
+
+  footer h6 {
+    font-size: 15px;
+  }
+
+  ul.footer-links li {
+    margin: 2 0;
+  }
+
+  .footer-signin-link a,
+  .footer-signup-link a {
+    padding-left: 10px;
+    padding-right: 0;
+    height: 80px;
+  }
+
+  .footer-signin-link a span,
+  .footer-signup-link a span {
+    font-size: 16px;
+  }
+
+  .footer-signup-link a span.footer-link-arrow,
+  .footer-signin-link a span.footer-link-arrow {
+    top: 10px;
+    transform: unset;
+    height: 22px;
+    width: 22px;
+    line-height: 22px;
+    font-size: 13px;
+  }
+
+
+}
+
+@media (max-width: 380px) {
+  #header .navbar-brand img {
+    max-height: 20px;
+  }
+
+  .numerol.imgBox img {
+    height: 340px;
+  }
+
+  .booking_summeryListing li {
+    width: 100%;
+  }
+
+  .otp_verification input {
+    font-size: 24px;
+    width: 54px;
+    height: 54px;
+  }
+
+  .booking_summeryListing {
+    flex-direction: column;
+  }
+}
